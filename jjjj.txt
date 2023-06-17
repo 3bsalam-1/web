@@ -1,0 +1,16 @@
+     <div class="project-card">
+                <div class="project-image">
+                    <img src="images/work6.jpg" />
+                </div>
+                <div class="project-info">
+                    <p class="project-category">A</p>
+                    <strong class="project-title">
+                        
+                    </strong>
+                </div>
+            </div>
+        </div>
+***************************************************
+ <div class="project-image">
+                    <img src="images/work5.jpg" />
+                </div>
